@@ -407,7 +407,7 @@ label {
 .logo img {
     position: relative;
     z-index: 2;
-    width: 240px;
+    width: 340px;
 }
 .logo-circle::before {
 	position: absolute;
